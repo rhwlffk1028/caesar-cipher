@@ -50,7 +50,7 @@ The following shows an example of encoded alphabets with shift number of 23:
   
 
   ## Contributing
-  No contribbution will be accepted at this moment.
+  No contribution will be accepted at this moment.
 
   ## Questions
   If you have any questions, please contact me via
